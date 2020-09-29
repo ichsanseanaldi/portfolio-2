@@ -22,6 +22,10 @@ body {
     -webkit-animation: enter 1s forwards;
 }
 
+.brand {
+    font-family: 'Pacifico', sans-serif;
+}
+
 a {
     display: inline-block;
     text-decoration: none;
@@ -183,6 +187,12 @@ ol {
     -o-transform: rotate(-15.5deg);
 }
 
+/* padding */
+
+.p-20 {
+    padding: 20px;
+}
+
 /* end-of modular */
 
 
@@ -294,6 +304,7 @@ ol {
 .word {
     font-size: 9vw;
 }
+
 
 @keyframes enter {
     0% {
