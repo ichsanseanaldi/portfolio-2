@@ -17,13 +17,9 @@
 html,
 body {
     font-size: 15px;
-    font-family: 'Russo One', sans-serif;
+    font-family: 'Poppins', sans-serif;
     animation: enter 1s forwards;
     -webkit-animation: enter 1s forwards;
-}
-
-.brand {
-    font-family: 'Pacifico', sans-serif;
 }
 
 a {
@@ -296,11 +292,11 @@ ol {
 }
 
 .list-wrap .link:hover {
-    text-shadow: -3px 3px 1px red, -6px 6px 1px blue;
+    opacity: 0.5;
 }
 
 .container {
-    margin-top: 80px;
+    margin-top: 70px;
 }
 
 .inside {
@@ -308,6 +304,7 @@ ol {
 }
 
 .word {
+    font-weight: 900;
     font-size: 9vw;
 }
 
