@@ -17,7 +17,7 @@
 html,
 body {
     font-size: 15px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Raleway', sans-serif;
     animation: enter 1s forwards;
     -webkit-animation: enter 1s forwards;
 }
@@ -233,7 +233,7 @@ ol {
     height: 3px;
     margin: 5px 0;
     transform-origin: left;
-    background-color: var(--color-black);
+    background-color: var(--color-white);
     border-radius: 10px;
     transition: 0.5s;
     -webkit-transition: 0.5s;
@@ -296,7 +296,7 @@ ol {
 }
 
 .container {
-    margin-top: 70px;
+    margin-top: 80px;
 }
 
 .inside {
